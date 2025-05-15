@@ -1,3 +1,4 @@
+--Before this perfomed some DDL, DML ,DQL commands
 ---- joins 
 ---Inner joins 
 
