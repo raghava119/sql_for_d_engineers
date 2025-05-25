@@ -1,4 +1,5 @@
 ----DATE AND TIME FUNCTIONS
+--Date functions
 SELECT orderdate,shipdate,creationtime FROM sales.orders
 
 select now()
