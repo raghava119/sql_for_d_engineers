@@ -1,3 +1,4 @@
+----first day 
 select * from customers where score !=0;
 select order_id, customer_id from orders;
 
