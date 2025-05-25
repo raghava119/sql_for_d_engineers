@@ -1,4 +1,5 @@
 ---Aggregation functions
+-----sql aggregation function
 --count,sum,min,max,avg
 
 --find the total number of orders
