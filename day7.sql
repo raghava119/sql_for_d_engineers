@@ -8,12 +8,12 @@ select count(*)
 from 
 sales.orders
 
-----find the total slaes of all orders
+----find the total slaes of all orders using sum
 select sum(sales) as total_sales
 from 
 sales.orders
 
----find the average slaes
+---find the average slaes using avd
 
 select avg(sales) as avg_sales
 from 
