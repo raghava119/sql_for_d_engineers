@@ -1,3 +1,4 @@
+---day 7 funtions
 ---Aggregation functions
 -----sql aggregation function
 --count,sum,min,max,avg
